@@ -7,7 +7,6 @@
 
 ## ✨ Recent Enhancements
 
-We’ve made the app smarter, faster, and easier to navigate. Here are the latest feature updates:
 
 ### 🧾 MyList Page
 - ➖ **Remove Button**: Users can now directly remove movies from their saved list with a single tap on the **"Remove"** button next to each item.
