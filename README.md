@@ -1,7 +1,7 @@
 # MovieList App
 # 🎬 MovieExplorerApp
 
-A dynamic Android app that helps users discover and manage movies across categories like "Now Playing", "Popular", "Top Rated", and "Upcoming". Built with Kotlin, Jetpack libraries, and a clean MVVM architecture.
+
 
 ---
 
@@ -35,13 +35,4 @@ We’ve made the app smarter, faster, and easier to navigate. Here are the lates
 
 ---
 
-## 📱 Screenshots & Demo
-
-Coming soon!
-
----
-
-## 🤝 Contributions
-
-Feel free to fork the repo, file issues, or submit PRs — collaboration is welcome!
 
